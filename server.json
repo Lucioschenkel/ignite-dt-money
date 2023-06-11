@@ -1,0 +1,36 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Website Development",
+      "type": "income",
+      "category": "Sale",
+      "amount": 3000,
+      "createdAt": "2023-04-23T12:54:29.776Z"
+    },
+    {
+      "id": 2,
+      "description": "Pete's",
+      "type": "expense",
+      "category": "Food",
+      "amount": 69,
+      "createdAt": "2023-04-23T12:54:29.776Z"
+    },
+    {
+      "amount": 5000,
+      "category": "Sale",
+      "description": "UI Design",
+      "type": "income",
+      "createdAt": "2023-04-25T18:42:59.342Z",
+      "id": 3
+    },
+    {
+      "amount": 5,
+      "category": "Food",
+      "description": "Pastel",
+      "type": "expense",
+      "createdAt": "2023-04-25T18:54:01.301Z",
+      "id": 4
+    }
+  ]
+}
